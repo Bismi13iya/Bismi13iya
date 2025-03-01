@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a a undisclosed cloud  project<br><br>🌱 I’m currently learning Rust <br><br>❓ Ask me about anything related to Web Scrapping and Python<br><br>⚡ Fun fact: I use tabs over spaces
+🔭 I’m currently working on a a undisclosed cloud  project<br><br>🌱 I’m currently learning Azure <br><br>❓ Excelling my skills through practice <br>
 
 
 # 💻 Tech Stack:
@@ -23,19 +23,19 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ABHIRAM-CREATOR06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ABHIRAM-CREATOR06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIRAM-CREATOR06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Bismi13iya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bismi13iya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bismi13iya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ABHIRAM-CREATOR06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Bismi13iya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ABHIRAM-CREATOR06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Bismi13iya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ABHIRAM-CREATOR06&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Bismi13iya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **Bismi13iya/Bismi13iya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
