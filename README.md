@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a a undisclosed cloud  project<br><br>🌱 I’m currently learning Azure <br><br>❓ Excelling my skills through practice <br>
+🏫 Pursuing Bachelors of Technology in Computer Science at Sree Narayana Gurukulam Collage of Engineering, Ernakulam <br><br>🔭 I’m currently working on a a undisclosed cloud  project<br><br>🌱 I’m currently learning Azure <br><br>❓ Excelling my skills through practice <br>
 
 
 # 💻 Tech Stack:
